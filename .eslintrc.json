@@ -1,0 +1,6 @@
+{
+    "extends": "nrxt/core-web-vitals",
+    "rules": {
+        "no-unused-vars": "error"  
+}
+}

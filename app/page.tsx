@@ -1,13 +1,9 @@
-"use client";
+"use client"
 
-import { Button } from "@base-ui/react";
-import { buttonVariants } from "./_components/ui/button";
-
-
+import { Button } from "@base-ui/react"
 
 const Home = () => {
-
   return <Button>test</Button>
 }
 
-export default Home;
+export default Home
